@@ -15,7 +15,7 @@ Hello, I'm Nes . I’m currently a stay at home mom but have always been fascina
 4. Be patient, be persistent! 
 5. Do not shy! you're not a kid, you have a kid :)
 
-
+![this is an image](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Hello-World-Jokes.jpg)
 
 
   
