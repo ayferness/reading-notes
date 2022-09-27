@@ -10,9 +10,10 @@ Hello, I'm Nes . I’m currently a stay at home mom but have always been fascina
 
 ### _Growth Mindset Reminders For Myself_ : 
 1. No one is good at it when just beginning! 
-2. I'm not good at it just `_yet_`
-3. It means to be hard ! It's a boot camp! Remember No pain no gain ! be patient, be persistent! 
-4. Do not shy, you're not a kid, you have a kid :)
+2. I'm not good at it just **_yet_** !
+3. It meant to be hard ! It's a boot camp! Remember No pain no gain ! 
+4. Be patient, be persistent! 
+5. Do not shy, you're not a kid, you have a kid :)
 
 
 
