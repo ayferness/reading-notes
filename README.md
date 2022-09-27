@@ -13,7 +13,7 @@ Hello, I'm Nes . I’m currently a stay at home mom but have always been fascina
 2. I'm not good at it just **_yet_** !
 3. It meant to be hard ! It's a boot camp! Remember No pain no gain ! 
 4. Be patient, be persistent! 
-5. Do not shy, you're not a kid, you have a kid :)
+5. Do not shy! you're not a kid, you have a kid :)
 
 
 
