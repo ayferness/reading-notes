@@ -15,7 +15,7 @@ Hello, I'm Nes . I’m currently a stay at home mom but have always been fascina
 4. Be patient, be persistent! 
 5. Do not shy! you're not a kid, you have a kid :)
 
-Here is my [GitHub](https://github.com/ayferness/reading-notes/commits?author=ayferness).
+Here is my [GitHub](https://github.com/ayferness/).
 
 
 
