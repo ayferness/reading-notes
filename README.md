@@ -16,6 +16,8 @@ Hello, I'm Nes . I’m currently a stay at home mom but have always been fascina
 5. Do not shy! you're not a kid, you have a kid :)
 
 Here is my [GitHub](https://github.com/ayferness/).
+[Class1 reading notes](class1.md)
+[Class2 reading notes](class2.md)
 
 
 
