@@ -17,5 +17,8 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 * Real-time Updates (aprx 15 min)
 * There are fancy templates for styling and themes
 
+[go to source for more info](https://www.markdownguide.org/basic-syntax/)
+
+
 
 
