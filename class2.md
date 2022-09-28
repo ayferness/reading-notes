@@ -1,5 +1,30 @@
 # Class2 Reading Notes
-### "Choosing a Text Editor"
+
+ ## The Command Line ( Terminal )
+ The terminal is able to do everything that a file explorer can do. It uses for find files, change direction move and copy files open files make new files and folders etc.
+ #### Common Commands for terminal
+ 
+pwd =  shows where are you at now
+
+ls : shows list of current folder
+
+ls -l : list with more information as a list
+
+ls -a : list with hidden files
+
+cd AYFER = asking for going to a file of AYFER  (changing directory to whereever you type)
+
+cd. (or more ....)  : go up one level (or .. for two, … for three etc.)
+
+mkdir newfolder = make a directory ( making folder in the terminal, name newfolder)
+
+touch newfile.md (or .ex or .doc) =  make new file that folder name is newfile, uzantisi .md or .doc .png whatever you want)
+code .    =  going to visual studio code
+Absolute Path : One beginning from the root of the file system (eg. /etc/sysconfig ).
+Relative Path : One relative to where you currently are in the system (eg. Documents/music ).
+
+
+## "Choosing a Text Editor"
 #### What is a text editor?
   A text editor is a piece of software that you download and install on
 your computer, or you access online through your web browser, that
