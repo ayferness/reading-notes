@@ -1,5 +1,5 @@
 #  Revisions and the Cloud
-Links to an external site.Git
+
 Git is a distributed version control system (DVCS) that stores data in a file system made of snapshots. Saving your project is called a commit, which creates a snapshot of the file.
 
 Every change made to a file is tracked by Git, which allows it to detect file corruption or loss of data.
@@ -20,9 +20,8 @@ For Saving changes to GitHub from your computer to the cloud, input the followin
 
 
 Revisions and the Cloud .
-Today we learned about Git and GitHub. I learned they are two different things. The major difference is that GitHub is mainly for code storage and whereas for Git is a version control system that allows you to revisit various versions of a file or set by recording changes. You can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. Therefore, by utilizing a version control system, mistakes with files can easily be rectified.
+Git and Github is different.GitHub is mainly for code storage and whereas for Git is a version control system that allows you to revisit various versions of a file or set by recording changes. You can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes. Therefore, by utilizing a version control system, mistakes with files can easily be rectified.
 
-See more information hereLinks to an external site.
 
 Git terminal commands include:
 
