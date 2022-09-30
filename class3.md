@@ -6,12 +6,14 @@ Every change made to a file is tracked by Git, which allows it to detect file co
 
 Files in Git exist is three main states:
 
-Committed: data is securely stored in a local database
-Modified: filehas been changed but not committed to the database
-Staged: prepares a file to be committed
-Links to an external site.GITFLOW:ACP
-To save changes to GitHub from your computer to the cloud, input the following commands to your terminal:
-
+**Committed**: data is securely stored in a local database
+**Modified**: filehas been changed but not committed to the database
+**Staged**: prepares a file to be committed
+**What is ACP ( Add+ Commit+ Push)**
+For Saving changes to GitHub from your computer to the cloud, input the following commands to your terminal:
+1- git add (name of file)
+2- git commit -m “write commit message”
+3- git push origin main
 
 
 Revisions and the Cloud .
