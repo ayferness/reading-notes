@@ -23,6 +23,11 @@ Here is my [GitHub](https://github.com/ayferness/).
 
 [Class3 reading notes](class3.md)
 
+[Class3 reading notes](class4.md)
+
+[Class3 reading notes](class5.md)
+
+[Class3 reading notes](class6.md)
 
 
 ![this is an image](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Hello-World-Jokes.jpg)
