@@ -22,8 +22,16 @@ For designing web page use ***Wireframe*** programs.
  
  Elements can also have **attributes**. Attributes contain extra information about the element that you don't want to appear in the actual content. 
  
+ An attribute should always have the following:
+
+* A space between it and the element name (or the previous attribute, if the element already has one or more attributes).
+* The attribute name followed by an equal sign.
+* The attribute value wrapped by opening and closing quotation marks.
  
+ **Empty elements** have no content, such as the img tag , no content.
  
-**Nesting elements**
-You can put elements inside other elements too — this is called nesting. If we wanted to state that our cat is very grumpy, we could wrap the word "very" in a <strong> element, which means that the word is to be strongly emphasized.
+**Nesting elements** when you put elements inside elements. This can be used to emphasize a certain word or phrase. Make sure to properly clsoe the tag inside the element.
+ Exp: We only emphasized 1 word with nesting element. 
+
+
 
