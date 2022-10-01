@@ -12,6 +12,13 @@ There are three ways:
 2. Internal CSS
 3. Inline CSS
 
+1. External CSS : An external style sheet can be written in any text editor, and must be saved with a .css extension. exp: "mystyle.css"
+
+The external .css file should not contain any HTML tags.With an external style sheet, you can change the look of an entire website by changing just one file!
+
+*Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.*
+
+
 
 
 
