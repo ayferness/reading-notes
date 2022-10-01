@@ -27,5 +27,8 @@ For designing web page use ***Wireframe*** programs. Some of them;
  
  
  
+Nesting elements
+You can put elements inside other elements too — this is called nesting. If we wanted to state that our cat is very grumpy, we could wrap the word "very" in a <strong> element, which means that the word is to be strongly emphasized:
 
+<p>My cat is <strong>very</strong> grumpy.</p>
 
