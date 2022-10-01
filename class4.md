@@ -15,14 +15,14 @@ For designing web page use ***Wireframe*** programs. Some of them;
  
  ### HTML Basics
  
- **<p> This is my **paragraph** </p>**
+ <p> This is my **paragraph** </p>
  
  content = This is my paragraph 
  element =  <p> This is my paragraph </p>
  
  Elements can also have **attributes**. Attributes contain extra information about the element that you don't want to appear in the actual content. 
  
- **<p class="editor note"> This is my paragraph </p>**
+ <p class="editor note"> This is my paragraph </p>
  
  
  
