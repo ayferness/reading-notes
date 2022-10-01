@@ -21,9 +21,13 @@ Here is my [GitHub](https://github.com/ayferness/).
 
 [Class2 reading notes](class2.md)
 
+[Class3 reading notes](class3.md)
+
 
 
 ![this is an image](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Hello-World-Jokes.jpg)
+
+
  
 
   
