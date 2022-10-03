@@ -16,8 +16,11 @@ Java Script is a scripting language that enables you to create dynamically updat
  var x = 5; var y = 6; var z = x + y;
 
 **var** = Used in older JS code
+
 **let** = value of variable can be changed 
+
 **const** = value of variable cannot be changed
+
 **nothing** = Mostly used in Python
 
 
