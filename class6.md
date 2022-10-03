@@ -13,15 +13,15 @@ Java Script is a scripting language that enables you to create dynamically updat
 
 ##### **Variables** are contaniers for storing data.There are 4 ways to declare a JavaScript variable:
  
- var x = 5; var y = 6; var z = x + y;
+ var x = 5; var y = 6; var z = x + y;    **var** = Used in older JS code
+ 
+let x = 5; var y = 6; var z = x + y;   **let** = value of variable can be changed 
 
-**var** = Used in older JS code
+const x = 5; var y = 6; var z = x + y;   **const** = value of variable cannot be changed
 
-**let** = value of variable can be changed 
+const x = 5; var y = 6; var z = x + y;    **nothing** = Mostly used in Python
 
-**const** = value of variable cannot be changed
 
-**nothing** = Mostly used in Python
 
 
 ###  Basic Functions
