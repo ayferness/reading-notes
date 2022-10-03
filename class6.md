@@ -26,10 +26,14 @@ const x = 5; var y = 6; var z = x + y;    ( **nothing** = Mostly used in Python 
 
 ###  Basic Functions
 
-**alert** will show up as a pop-up with the text input
+**alert** will show up as a pop-up with the text input 
+
 **document.write** will display text that is input in the browser
+
 **console.log** text that is input will show up in the console of the browser; warnings and errors will show up here
+
 **prompt** will display a pop-up window where users can wrtie in their responses
+
 **confirm** will display a pop-up window with a yes or no question
 
 
