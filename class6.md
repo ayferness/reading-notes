@@ -4,14 +4,14 @@
 ## What is Java Script
 Java Script is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
 
-####### New Vocabulary
+##### New Vocabulary
 * JavaScript
 * conditionals
 * operators
 * data types
 * variable
 
-##### **Variables** ###### are contaniers for storing data.There are 4 ways to declare a JavaScript variable:
+##### **Variables** are contaniers for storing data.There are 4 ways to declare a JavaScript variable:
  
  var x = 5; var y = 6; var z = x + y;
 
