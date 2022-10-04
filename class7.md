@@ -16,7 +16,7 @@ Code is run in order from the first line in the file to the last line, unless th
  
 3- ( *	) Multiplication
 
-4- ( **	) Exponentiation (ES2016)
+4- ( **	) Exponentiation (ES2016) (Kuvvetini alma)
 
 5- ( /	)  Division
 
