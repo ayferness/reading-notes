@@ -43,9 +43,7 @@ Variables are containers that store values. You start by declaring a variable wi
 
 
 
-
-
-Variables may hold values that have different **DATA TYPES:**
+#### Variables may hold values that have different **DATA TYPES:**
 
 1-  **String** `let myVariable = 'Bob';`  means incluede Text Data
 
@@ -63,6 +61,14 @@ Refer to each member of the array like this:
 
 5-  **Object** `let myVariable = document.querySelector('h1');` Means This can be anything. Everything in JavaScript is an object and can be stored in a variable. (All of the above examples too.)
 
+
+**NOTE:** Comments :Comments are snippets of text that can be added along with code. The browser ignores text marked as comments.
+
+`/*
+
+Everything in between is a comment.
+
+*/`
 
 
 
