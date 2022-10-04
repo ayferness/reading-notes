@@ -52,12 +52,25 @@ function myFunction(p1, p2) {
 
 8- (  `--`	) Decrement
 
-9- ( `===` ) Strict equality  This performs a test to see if two values are equal. It returns a true/false (Boolean) result.
+9- ( `===` ) Strict equality  This performs a test to see if two values are equal. **It returns a true/false (Boolean) result.**
 
 `let myVariable = 3; myVariable === 4;`  
 
 
 ### Conditionals
+
+Conditionals are code structures used to test if an expression returns true or not. 
+A very common form of conditionals is the if...else statement. For example:
+
+`let iceCream = "chocolate";
+
+if (iceCream === "chocolate") {
+
+  alert("Yay, I love chocolate ice cream!");
+} else {
+
+  alert("Awwww, but chocolate is my favorite…");
+}`
 
 
 
