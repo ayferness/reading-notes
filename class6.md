@@ -9,12 +9,17 @@
 * data types
 * variable
 
+
+
 ## What is Java Script
 Java Script is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, etc.
 
 
+
 **For starting:** Go to your test site and create a new folder named **scripts**. Within the scripts folder, create a new text document called **main.js**, and save it. In your **index.html** file, enter this code on a new line, just before the closing </body> tag:
 `<script src="scripts/main.js"></script>`   (That means we linked js to html file)
+
+
 
 
 ### Language basics 
@@ -36,6 +41,8 @@ Variables are containers that store values. You start by declaring a variable wi
 `let myVariable = "Bob";`
 `myVariable = "Steve";`
 
+
+
 Variables may hold values that have different **DATA TYPES:**
 
 1-  **String** `let myVariable = 'Bob';`  means incluede Text Data
@@ -53,6 +60,8 @@ Refer to each member of the array like this:
 
 
 5-  **Object** `let myVariable = document.querySelector('h1');` Means This can be anything. Everything in JavaScript is an object and can be stored in a variable. (All of the above examples too.)
+
+
 
 
 
