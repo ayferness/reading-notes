@@ -7,9 +7,18 @@ Code is run in order from the first line in the file to the last line, unless th
 **Control flow means** that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
 **
 
+** Types of JavaScript Operators**
+
+* Aritmetic Operators
+* Assignment Operators
+* Comparison Operators
+* Logical Operators
+* Conditional Operators
+* Type Operators
 
 
-**Operators**
+
+**JavaScript Arithmetic Operators**
 1. (  +	 ) Addition
 
 2. ( -	) Subtraction
