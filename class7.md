@@ -7,6 +7,22 @@ Code is run in order from the first line in the file to the last line, unless th
 **Control flow means** that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
 **
 
+## JavaScript Functions
+
+A JavaScript function is a block of code designed to perform a particular task.
+
+A JavaScript function is executed when "something" calls it.
+
+Exp: // Function to compute the product of p1 and p2
+function myFunction(p1, p2) {
+  return p1 * p2;
+}
+
+
+
+
+
+
 **Types of JavaScript Operators
 
 * Aritmetic Operators
