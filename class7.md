@@ -19,6 +19,8 @@ Code is run in order from the first line in the file to the last line, unless th
 
 
 **JavaScript Arithmetic Operators**
+Arithmetic operators are used to perform arithmetic on numbers:
+
 1. (  +	 ) Addition
 
 2. ( -	) Subtraction
@@ -34,3 +36,13 @@ Code is run in order from the first line in the file to the last line, unless th
 7- ( ++ )	Increment
 
 8- (  --	) Decrement
+
+**JavaScript Assignment Operators**
+
+**JavaScript Comparison Operators
+
+**JavaScript Logical Operators
+
+**JavaScript Conditional Operators
+
+**Type Operators
