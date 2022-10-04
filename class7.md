@@ -34,24 +34,30 @@ function myFunction(p1, p2) {
 
 
 
-**JavaScript Arithmetic Operators**
-Arithmetic operators are used to perform arithmetic on numbers:
+**Some of the JavaScript Operators**
 
-1. (  +	 ) Addition
+1. (  +	 ) Addition    ` 6 + 9;`  or  `'Hello ' + 'world!';`
 
-2. ( -	) Subtraction
+2. ( -	) Subtraction   `9 - 3;`    `8 * 2;`  
  
-3- ( *	) Multiplication
+3- (  *	) Multiplication   `8 * 2;`
 
 4- ( **	) Exponentiation (ES2016) (Kuvvetini alma)
 
-5- ( /	)  Division
+5- ( /	)  Division `8/2;`
 
-6- ( %	)  Modulus (Division Remainder)
+6- ( %	)  Modulus (Division Remainder) 
 
 7- ( ++ )	Increment
 
 8- (  --	) Decrement
+
+9- ( === ) Strict equality  This performs a test to see if two values are equal. It returns a true/false (Boolean) result.
+
+`let myVariable = 3;
+
+myVariable === 4;`
+
 
 **JavaScript Assignment Operators**
 
