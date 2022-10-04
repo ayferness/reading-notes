@@ -11,10 +11,17 @@ Code is run in order from the first line in the file to the last line, unless th
 
 **Operators**
 1. +	Addition
+
 2. -	Subtraction
+ 
 3- *	Multiplication
+
 4- **	Exponentiation (ES2016)
+
 5- /	Division
+
 6- %	Modulus (Division Remainder)
+
 7- ++	Increment
+
 8- --	Decrement
