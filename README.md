@@ -28,7 +28,8 @@ Here is my [GitHub](https://github.com/ayferness/).
 [Class5 reading notes](class5.md)
 
 [Class6 reading notes](class6.md)
-[Class7 reading notes(class7.md)
+
+[Class7 reading notes](class7.md)
 
 ![this is an image](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Hello-World-Jokes.jpg)
 
