@@ -38,13 +38,18 @@ Variables are containers that store values. You start by declaring a variable wi
 
 Variables may hold values that have different **data types:**
 1-  **String** `let myVariable = 'Bob';`  means incluede Text Data
+
 2-  **Number** `let myVariable = 10;`  means incluede Number
+
 3- **Boolean** `let myVariable = true;` means this is a True/False value. The words true and false are special keywords.
+
 4-  **Array**  `let myVariable = [1,'Bob','Steve',10];` Means you're storing multiple values in a single reference.
+
  
 Refer to each member of the array like this:
 
 `myVariable[0]`, `myVariable[1]`, etc.
+
 
 5-  **Object** `let myVariable = document.querySelector('h1');` Means This can be anything. Everything in JavaScript is an object and can be stored in a variable. (All of the above examples too.)
 
