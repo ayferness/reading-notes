@@ -37,7 +37,7 @@ Variables are containers that store values. You start by declaring a variable wi
 * JavaScript is case sensitive. This means `myVariable` is not the same as `myvariable`
 * You retrieve the value by calling the variable name: `myVariable;` ( after assigning value `let myVariable;` )
 * Also After assigning a value to a variable, you can change it later in the code:
-* 
+
 `let myVariable = "Bob";`
 `myVariable = "Steve";`
 
