@@ -17,10 +17,11 @@ Java Script is a scripting language that enables you to create dynamically updat
 `<script src="scripts/main.js"></script>`   (That means we linked js to html file)
 
 
-##### Language basics 
+### Language basics 
 
 
-##### **Variables** are contaniers for storing data.There are 4 ways to declare a JavaScript variable:
+#### **Variables** are contaniers for storing data.
+**There are 4 ways to declare a JavaScript variable:**
  
  var x = 5; var y = 6; var z = x + y;   (  **var** = Used in older JS code )
  
