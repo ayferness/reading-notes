@@ -30,7 +30,7 @@ const x = 5; var y = 6; var z = x + y;   ( **const** = Use it value of variable 
 
 const x = 5; var y = 6; var z = x + y;    ( **nothing** = Mostly used in Python )
 
-`let myVariable;` 
+### `let myVariable;` 
 * A semicolon at the end of a line indicates where a statement ends. 
 * It is only required when you need to separate statements on a single line. 
 * There are other rules for when you should and shouldn't use semicolons.(Don't worry about it for now)
