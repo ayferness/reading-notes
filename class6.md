@@ -63,13 +63,9 @@ Refer to each member of the array like this:
 
 
 **NOTE:** `Comments` are snippets of text that can be added along with code. The browser ignores text marked as comments.
-`
-/*
 
-Everything in between is a comment.
+`/* Everything in between is a comment.*/`
 
-*/
-`
 
 
 
