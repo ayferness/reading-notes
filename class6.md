@@ -20,18 +20,12 @@ Java Script is a scripting language that enables you to create dynamically updat
 ### Language basics 
 
 
-#### **Variables** are contaniers for storing data.
-**There are 4 ways to declare a JavaScript variable:**
- 
- var x = 5; var y = 6; var z = x + y;   (  **var** = Used in older JS code )
- 
-let x = 5; var y = 6; var z = x + y;   ( **let** = Use it if value of variable can be changed  )
+### **Variables** 
+Variables are containers that store values. You start by declaring a variable with the `let` keyword, followed by the name you give to the variable:
 
-const x = 5; var y = 6; var z = x + y;   ( **const** = Use it value of variable cannot be changed )
-
-const x = 5; var y = 6; var z = x + y;    ( **nothing** = Mostly used in Python )
 
 ### `let myVariable;` 
+
 * A semicolon at the end of a line indicates where a statement ends. 
 * It is only required when you need to separate statements on a single line. 
 * There are other rules for when you should and shouldn't use semicolons.(Don't worry about it for now)
@@ -43,16 +37,18 @@ const x = 5; var y = 6; var z = x + y;    ( **nothing** = Mostly used in Python 
 `myVariable = "Steve";`
 
 Variables may hold values that have different **data types:**
-* **String** `let myVariable = 'Bob';`  means incluede Text Data
-* **Number** `let myVariable = 10;`  means incluede Number
-* **Boolean** `let myVariable = true;` means this is a True/False value. The words true and false are special keywords.
-* **Array**  `let myVariable = [1,'Bob','Steve',10];` Means you're storing multiple values in a single reference.
+1-  **String** `let myVariable = 'Bob';`  means incluede Text Data
+2-  **Number** `let myVariable = 10;`  means incluede Number
+3- **Boolean** `let myVariable = true;` means this is a True/False value. The words true and false are special keywords.
+4-  **Array**  `let myVariable = [1,'Bob','Steve',10];` Means you're storing multiple values in a single reference.
  
 Refer to each member of the array like this:
 
 `myVariable[0]`, `myVariable[1]`, etc.
 
-* **Object** `let myVariable = document.querySelector('h1');` Means This can be anything. Everything in JavaScript is an object and can be stored in a variable. (All of the above examples too.)
+5-  **Object** `let myVariable = document.querySelector('h1');` Means This can be anything. Everything in JavaScript is an object and can be stored in a variable. (All of the above examples too.)
+
+
 
 
 
