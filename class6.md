@@ -37,6 +37,7 @@ Variables are containers that store values. You start by declaring a variable wi
 `myVariable = "Steve";`
 
 Variables may hold values that have different **data types:**
+
 1-  **String** `let myVariable = 'Bob';`  means incluede Text Data
 
 2-  **Number** `let myVariable = 10;`  means incluede Number
