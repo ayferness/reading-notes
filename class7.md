@@ -14,14 +14,14 @@ Code is run in order from the first line in the file to the last line, unless th
 
 2. ( -	) Subtraction
  
-3- *	Multiplication
+3- ( *	) Multiplication
 
-4- **	Exponentiation (ES2016)
+4- ( **	) Exponentiation (ES2016)
 
-5- /	Division
+5- ( /	)  Division
 
-6- %	Modulus (Division Remainder)
+6- ( %	)  Modulus (Division Remainder)
 
-7- ++	Increment
+7- ( ++ )	Increment
 
-8- --	Decrement
+8- (  --	) Decrement
