@@ -54,6 +54,10 @@ function myFunction(p1, p2) {
 
 9- ( `===` ) Strict equality  This performs a test to see if two values are equal. **It returns a true/false (Boolean) result.**
 
+10- ( = ) It's just for assigning the value  x = Atlas ( doesnt mean equal' we're just assigning value)
+
+11- ( == ) Means 'Equal to' 
+
 `let myVariable = 3; myVariable === 4;`  
 
 
