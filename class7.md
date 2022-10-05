@@ -58,6 +58,8 @@ function myFunction(p1, p2) {
 
 11- ( == ) Means 'Equal to' 
 
+12- ( !== ) Means "Does not Equal to'
+
 `let myVariable = 3; myVariable === 4;`  
 
 
