@@ -65,22 +65,37 @@ Logical nullish assignment	    ` x ??= f()`        `x ?? (x = f())`
 `( <=) `(less than or equal)   Returns true if the left operand is less than or equal to the right operand.
 
 
-For StatementLinks to an external site.
-A for loop repeats until a specified condition evaluates to false
+## Loops and iteration
 
-The Structure of a for loop looks like:
+Loops offer a quick and easy way to do something repeatedly.
 
-for( initial value; condition to evaluate; increment) { code to execute }
+There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times.
 
-the initial value usually initializes one or more loops counters
-if condition to evaluate is true, then the loops statements execute
-While StatementLinks to an external site.
-A while statement executes its statements as long as a specified condition evaluates to true
+The various loop mechanisms offer different ways to determine the start and end points of the loop. There are various situations that are more easily served by one type of loop over the others.
 
-The Structure for a while loops looks like:
+### For Statement
 
-while ( condition to evaluate is true ){ execute this code }
+A for loop repeats until a specified condition evaluates to false. 
 
-the loop stop executing if the condition becomes false
+If you know how many times it's gonna execute, use FOR LOOP
+
+For Statment looks like:
+
+for ([initialExpression]; [conditionExpression]; 
+
+[incrementExpression])
+
+  statement
+  
+  
+1- The initializing expression `initialExpression`, if any, is executed. This expression usually initializes one or more loop counters, but the syntax allows an expression of any degree of complexity. This expression can also declare variables.
+2- The conditionExpression expression is evaluated. If the value of `conditionExpression` is true, the loop statements execute. Otherwise, the for loop terminates. (If the conditionExpression expression is omitted entirely, the condition is assumed to be true.)
+3- The statement executes. To execute multiple statements, use a block statement ({ }) to group those statements.
+4- If present, the update expression incrementExpression is executed.
+5- Control returns to Step 2.
+
+
+
+
 
 
