@@ -11,7 +11,7 @@ An assignment operator assigns a value to its left operand based on the value of
 
 **There are also compound assignment operators that are shorthand for the operations :**
 
-![this is an image](C:\Users\ayfer\OneDrive\Desktop\operators.png)
+![this is an image](operators.png)
 
 
 
