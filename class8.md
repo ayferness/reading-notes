@@ -28,13 +28,20 @@ A comparison operator compares its operands and returns a logical value based on
 
 Comparison operators are:
 
-`== `(equal)
+`== `  (equal)
+
 `!==` (not equal)
+
 `===` (strict equal)
+
 `!==` (strict not equal)
+
  ` > ` (greater than)
+ 
 ` >= ` (greater than or equal)
+
 ` < ` (less than)
+
 ` <= `(less than or equal)
 
 
