@@ -48,21 +48,21 @@ Logical nullish assignment	    ` x ??= f()`        `x ?? (x = f())`
 
 ## **Comparison Operators **
 
-`== `  (equal)
+`== `  (equal) Returns true if the operands are equal.
 
-`!==` (not equal)
+`(!==)` (not equal)  Returns true if the operands are not equal.
 
-`===` (strict equal)
+`(===)` (strict equal) Returns true if the operands are equal and of the same type. 
 
-`!==` (strict not equal)
+`(!==)` (strict not equal) Returns true if the operands are of the same type but not equal, or are of different type.
 
- ` > ` (greater than)
+ `( > )` (greater than)  Returns true if the left operand is greater than the right operand.
  
-` >= ` (greater than or equal)
+`( >=) ` (greater than or equal)  Returns true if the left operand is greater than or equal to the right operand.
 
-` < ` (less than)
+` (<) ` (less than)  Returns true if the left operand is less than the right operand.
 
-` <= `(less than or equal)
+`( <=) `(less than or equal)   Returns true if the left operand is less than or equal to the right operand.
 
 
 For StatementLinks to an external site.
