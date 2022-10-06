@@ -22,4 +22,38 @@ Logical AND assignment	x &&= f()	x && (x = f())
 Logical OR assignment	x ||= f()	x || (x = f())
 Logical nullish assignment	x ??= f()	x ?? (x = f())
 
+Read: 08 Operations and Loops
+Comparison OperatorsLinks to an external site.
+A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values.
+
+Comparison operators are:
+
+`== `(equal)
+`!==` (not equal)
+`===` (strict equal)
+`!==` (strict not equal)
+ ` > ` (greater than)
+` >= ` (greater than or equal)
+` < ` (less than)
+` <= `(less than or equal)
+
+
+For StatementLinks to an external site.
+A for loop repeats until a specified condition evaluates to false
+
+The Structure of a for loop looks like:
+
+for( initial value; condition to evaluate; increment) { code to execute }
+
+the initial value usually initializes one or more loops counters
+if condition to evaluate is true, then the loops statements execute
+While StatementLinks to an external site.
+A while statement executes its statements as long as a specified condition evaluates to true
+
+The Structure for a while loops looks like:
+
+while ( condition to evaluate is true ){ execute this code }
+
+the loop stop executing if the condition becomes false
+
 
